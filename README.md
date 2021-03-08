@@ -1,1 +1,1 @@
-"# Primeiro projeto .NET - Aplica‡Æo Console" 
+# Primeiro Projeto .NET com C# â€“ AplicaÃ§Ã£o Console"
